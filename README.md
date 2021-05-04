@@ -1,5 +1,7 @@
 # PIXEy-EDITOR
 PIXEy EDITOR is a javascript based pixel editor application to edit and draw in browser window. feel free to make any good changes in it.
+TRY [here](https://anubhav-developr.github.io/PIXEy-EDITOR/)
+
 
 some clicks here below .
 
